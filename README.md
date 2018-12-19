@@ -20,9 +20,20 @@ Or install it yourself as:
 
     $ gem install rails-java-wrapper
 
+add the require lines in your assests/javascripts/application.js file:
+
+    //= require bootstrap.min
+    //= require jquery
+    //= require "add all jquery versions here"
+
+add the require lines in your assests/stylesheets/application.scss file:
+
+    *= require bootstrap.min
+
+
 ## Usage
 
-TODO: Write usage instructions here
+just start working on bootstrap and jquery and enjoy coding ....
 
 ## Development
 

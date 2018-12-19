@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{A simple way to add jquery and bootstrap files 
                             in your rails project. Just add this gem in your 
                            project and work on bootstrap and jquery in rails.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/abdullah5514/rails-java-wrapper"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
